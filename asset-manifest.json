@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactwebsiteclea/static/css/main.36daa1c4.css",
+    "main.js": "/reactwebsiteclea/static/js/main.c9eb209b.js",
+    "static/js/787.f055211e.chunk.js": "/reactwebsiteclea/static/js/787.f055211e.chunk.js",
+    "index.html": "/reactwebsiteclea/index.html",
+    "main.36daa1c4.css.map": "/reactwebsiteclea/static/css/main.36daa1c4.css.map",
+    "main.c9eb209b.js.map": "/reactwebsiteclea/static/js/main.c9eb209b.js.map",
+    "787.f055211e.chunk.js.map": "/reactwebsiteclea/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36daa1c4.css",
+    "static/js/main.c9eb209b.js"
+  ]
+}
